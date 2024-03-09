@@ -10,23 +10,23 @@ Local Storage: Your tasks are stored locally, allowing you to access them across
 # Getting Started
 Follow these steps to run the Task Manager App on your local machine:
 
-## Clone this repository:
+Clone this repository:
 ### `git clone https://github.com/mythili-e/task-manager-app.git`
 
 
-## Navigate to the project directory:
+Navigate to the project directory:
 ### `cd task-manager-app`
 
-## Install dependencies:
+Install dependencies:
 ### `npm install`
 
-## Run the app:
+Run the app:
 ### `npm start`
 
 The app will open in your default web browser at http://localhost:3000.
 
 # Technologies Used
-React
+React\
 Local Storage
 
 # Contributing
