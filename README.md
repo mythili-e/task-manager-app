@@ -7,6 +7,27 @@ Task Creation: Easily add new tasks with a title and optional description.
 Task List: View a list of all your tasks with their titles and descriptions.
 Local Storage: Your tasks are stored locally, allowing you to access them across sessions.
 
+# Getting Started
+Follow these steps to run the Task Manager App on your local machine:
+
+## Clone this repository:
+
+### git clone https://github.com/your-username/task-manager-app.git
+
+
+## Navigate to the project directory:
+
+### cd task-manager-app
+
+## Install dependencies:
+### npm install
+
+## Run the app:
+
+### npm start
+
+The app will open in your default web browser at http://localhost:3000.
+
 # Technologies Used
 React
 Local Storage
